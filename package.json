@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/adh636/slacky/issues"
   },
-  "homepage": "https://github.com/adh636/slacky#readme"
+  "homepage": "https://github.com/adh636/slacky#readme",
+  "dependencies": {
+    "node-wit": "^3.0.1"
+  }
 }
